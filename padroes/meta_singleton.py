@@ -1,4 +1,4 @@
-"""Neste exemplo implementarei o padrão Singleton como MetaClasse"""
+"""Neste exemplo implementei o padrão Singleton como MetaClasse"""
 """Link para mais informações sobre metaclasses: https://pt.wikipedia.org/wiki/Metaclasse"""
 
 
